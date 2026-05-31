@@ -251,9 +251,9 @@ Authorization: <JWT_TOKEN>
 
 ## 👨‍💻 Author
 
-Name: Your Name
+Name: MD OLI ULLAH
 
-Email: [your-email@example.com](mailto:your-email@example.com)
+Email: [olimohammad286@gmail.com](mailto:olimohammad286@gmail.com)
 
 ---
 
